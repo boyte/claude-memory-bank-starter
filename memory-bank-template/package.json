@@ -1,0 +1,20 @@
+{
+  "name": "my-project",
+  "version": "0.1.0",
+  "description": "A project built with Memory Bank starter",
+  "scripts": {
+    "dev": "echo 'Configure your dev script'",
+    "build": "echo 'Configure your build script'",
+    "test": "echo 'Configure your test script'",
+    "memory:search": "node scripts/memory-search.js",
+    "memory:browse": "node scripts/memory-browse.js",
+    "memory:overview": "node scripts/memory-overview.js",
+    "memory:update": "node scripts/memory-update.js",
+    "memory:init": "node init-memory-bank.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
