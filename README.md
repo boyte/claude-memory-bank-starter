@@ -1,21 +1,16 @@
 # Memory Bank Starter
 
-Build applications at the speed of thought with Claude Code.
+Simple baseline starter for working with Claude Code. Creates a memory system for keeping track of project decisions, architecture, tasks, etc between sessions. 
 
 ## Overview
 
-Memory Bank Starter is a powerful project template that combines a hierarchical knowledge management system with AI agents to enable unprecedented development speed. Go from idea to working application in minutes, not hours.
+Memory Bank Starter is a powerful project template that combines a hierarchical knowledge management system with AI agents to enable unprecedented development speed. 
 
 ## Features
 
-- 🚀 **Instant Scaffolding** - Create complete project structures in <30 seconds
-- 🤖 **AI Agents** - Specialized assistants for every development task
+- 🚀 **Scaffolding** - Create complete project structures
+- 🤖 **AI Agents** - Pre-created agents for Claude
 - 📚 **Memory Bank** - Intelligent knowledge management system
-- 🎨 **Component Library** - Reusable UI components with design systems
-- 🔌 **API Generator** - Create REST/GraphQL APIs in <1 minute
-- 📦 **Template Manager** - Deploy sites from templates in <2 minutes
-- 🧪 **Test Automation** - Comprehensive testing out of the box
-- 📈 **Continuous Learning** - System improves with every use
 
 ## Quick Start
 
@@ -51,13 +46,6 @@ Specialized AI assistants in `.claude/agents/` that handle specific tasks:
 - **memory-bank-template-manager** - Site template deployment
 - And many more...
 
-### 📦 Templates
-Pre-built, customizable site templates for rapid deployment:
-- Landing pages
-- E-commerce sites
-- Dashboards
-- Portfolios
-- SaaS applications
 
 ## Documentation
 
@@ -66,15 +54,6 @@ Pre-built, customizable site templates for rapid deployment:
 - [Contributing Guidelines](CONTRIBUTING.md) - How to contribute
 - [License](LICENSE) - MIT License
 
-## Speed Comparison
-
-| Task | Traditional | With Memory Bank |
-|------|------------|------------------|
-| Project Setup | 30-60 min | <30 seconds |
-| CRUD API | 2-4 hours | <1 minute |
-| Component Library | 1-2 days | <5 minutes |
-| Landing Page | 4-8 hours | <2 minutes |
-| Full Application | 1-2 weeks | <1 day |
 
 ## How It Works
 
@@ -101,7 +80,6 @@ Pre-built, customizable site templates for rapid deployment:
 "Create an admin dashboard"
 "Add email notifications"
 
-# Total time: <30 minutes for a complete e-commerce platform
 ```
 
 ## Contributing
@@ -111,11 +89,3 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Built for developers who want to focus on building unique features, not writing boilerplate.
-
----
-
-*Build at the speed of thought with Claude Code ⚡*
