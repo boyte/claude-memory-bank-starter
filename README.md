@@ -4,7 +4,7 @@ Simple baseline starter for working with Claude Code. Creates a memory system fo
 
 ## Overview
 
-Memory Bank Starter is a powerful project template that combines a hierarchical knowledge management system with AI agents to enable unprecedented development speed. 
+Memory Bank Starter is a powerful project template that combines a hierarchical knowledge management system with AI agents to enable unprecedented development speed. It's conceptually based on the cline memory bank concept found here: https://cline.bot/blog/memory-bank-how-to-make-cline-an-ai-agent-that-never-forgets 
 
 ## Features
 
